@@ -21,4 +21,7 @@ Some common examples of naive algorithms include:
 -   Fibonacci - Calculates each Fibonacci number from scratch. Runs in exponential time.
     
 
+
+![load image...](./Help/img_1.png)
+
 While naive algorithms have limitations, they provide a simple starting point when developing solutions. More advanced algorithms can then optimize upon the naive approach. Understanding both types of algorithms is important for becoming an effective programmer.
