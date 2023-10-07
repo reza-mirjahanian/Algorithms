@@ -36,3 +36,5 @@ The bad character rule has the runtime O(n/m) in the best case and O(nm) in the 
 
 [Interactive Demo of the Boyer-Moore String Search Algorithm (dwnusbaum.github.io)](https://dwnusbaum.github.io/boyer-moore-demo/)
 
+
+While the bad character rule exploits a single character that is in the text but not in the pattern, the good suffix rule exploits **multiple** contiguous characters that appear in both the text and the pattern.
